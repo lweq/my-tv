@@ -12,9 +12,9 @@ object TVList {
         "央视频道" to listOf(
             TV(
                 0,
-                "CCTV1 综合",
-                "CCTV1",
-                listOf("http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8"),
+                "翡翠台",
+                "翡翠台",
+                listOf("http://172.16.149.226:9090/live/1350_4500.m3u8"),
                 0,
                 "央视频道",
                 "https://resources.yangshipin.cn/assets/oms/image/202306/d57905b93540bd15f0c48230dbbbff7ee0d645ff539e38866e2d15c8b9f7dfcd.png?imageMogr2/format/webp",
